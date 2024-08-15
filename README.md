@@ -94,6 +94,3 @@ The SpaceX Predictive Analytics for Falcon 9 First Stage Landing Success project
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Citations:
-[1] https://github.com/CollinsNyatundo/SpaceX-Predictive-Analytics-for-Falcon9-first-stage-landing-success.
